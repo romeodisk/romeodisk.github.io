@@ -1,0 +1,324 @@
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-Thin.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-Thin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedThin.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-ThinItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedThinItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-ExtraLight.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedExtraLight.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-ExtraLightItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedExtraLightItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-Light.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedLight.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-LightItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedLightItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-Regular.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-Condensed.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-Condensed.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-Italic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-Medium.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedMedium.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-MediumItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedMediumItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedMediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-SemiBold.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedSemiBold.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-SemiBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedSemiBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedSemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-Bold.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedBold.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-BoldItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-ExtraBold.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedExtraBold.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-ExtraBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedExtraBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-Heavy.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedHeavy.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedHeavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-HeavyItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-HeavyItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Romeosevka Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/Romeosevka-CondensedHeavyItalic.woff2') format('woff2'), url('TTF-Unhinted/Romeosevka-CondensedHeavyItalic.ttf') format('truetype');
+}

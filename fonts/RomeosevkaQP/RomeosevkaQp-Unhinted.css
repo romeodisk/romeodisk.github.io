@@ -1,0 +1,324 @@
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-Thin.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-Thin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedThin.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedThin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-ThinItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedThinItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-ExtraLight.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedExtraLight.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-ExtraLightItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedExtraLightItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-Light.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedLight.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-LightItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedLightItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-Regular.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-Condensed.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-Condensed.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-Italic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-Medium.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedMedium.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedMedium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-MediumItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedMediumItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedMediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-SemiBold.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedSemiBold.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedSemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-SemiBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedSemiBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedSemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-Bold.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedBold.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-BoldItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-ExtraBold.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedExtraBold.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-ExtraBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedExtraBoldItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-Heavy.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-style: normal;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedHeavy.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedHeavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-HeavyItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-HeavyItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'RomeosevkaQP Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-style: italic;
+	src: url('WOFF2-Unhinted/RomeosevkaQp-CondensedHeavyItalic.woff2') format('woff2'), url('TTF-Unhinted/RomeosevkaQp-CondensedHeavyItalic.ttf') format('truetype');
+}

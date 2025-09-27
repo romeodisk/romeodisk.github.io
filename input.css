@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+@theme {
+    --color-romeo-50: oklch(0.9632 0.0356 262.2992);
+    --color-romeo-100: oklch(0.8648 0.1030 265.4622);
+    --color-romeo-200: oklch(0.7990 0.1389 267.3525);
+    --color-romeo-300: oklch(0.7006 0.1745 269.2308);
+    --color-romeo-400: oklch(0.6434 0.2093 271.5767);
+    --color-romeo-500: oklch(0.5666 0.2121 273.3022);
+    --color-romeo-600: oklch(0.4904 0.1769 275.5376);
+    --color-romeo-700: oklch(0.4628 0.1718 278.1953);
+    --color-romeo-800: oklch(0.3569 0.1063 281.5381);
+    --color-romeo-900: oklch(0.2696 0.0714 285.4169);
+    --color-romeo-950: oklch(0.1932 0.0378 294.1620);
+}
+* {
+    font-family: system-ui;
+}
+h1 {
+    @apply text-3xl font-bold text-romeo-900 p-8;
+}
